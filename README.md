@@ -1,4 +1,4 @@
-highlights
+highlights from "Managing Humans" by Michael Lopp
 
 # The Management Quiver
 
